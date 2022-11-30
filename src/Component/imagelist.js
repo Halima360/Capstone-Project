@@ -1,0 +1,33 @@
+export const imagesList=[
+    {
+        id:"1a",
+      img:"./images/E1.png",
+      title:"Toyota"  
+    },
+    {
+        id:"2a",
+        img:"./images/E2.png",
+        title:"Samsung"  
+      },
+      {
+        id:"3a",
+        img:"./images/E3.png",
+        title:"Nivea"  
+      },
+      {
+        id:"4a",
+        img:"./images/E4.png",
+        title:"Adidas"  
+      },
+      {
+        id:"5a",
+        img:"./images/E5.png",
+        title:"Apple"  
+      },
+      {
+        id:"6a",
+        img:"./images/E6.png",
+        title:"Honda"  
+      }, 
+]
+

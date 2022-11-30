@@ -1,0 +1,74 @@
+
+export const Category=[
+    {
+id:1,
+icon:"../images/sidebar1.png",
+title:"Vehicles",
+nav:"../images/angle.png",
+    },
+    {
+        id:2,
+        icon:"../images/sidebar2.png",
+        title:"Property",
+        nav:"../images/angle.png",
+            },
+            {
+                id:3,
+                icon:"../images/sidebar3.png",
+                title:"Electronics",
+                nav:"../images/angle.png",
+                    },
+             {
+                        id:4,
+                        icon:"../images/sidebar4.png",
+                        title:"Jobs",
+                        nav:"../images/angle.png",
+      },
+      {
+        id:5,
+        icon:"../images/sidebar5.png",
+        title:"Home Appliances",
+        nav:"../images/angle.png",
+            },
+            {
+                id:6,
+                icon:"../images/sidebar6.png",
+                title:"Sports",
+                nav:"../images/angle.png",
+                    },
+                    {
+                        id:7,
+                        icon:"../images/sidebar7.png",
+                        title:"Games",
+                        nav:"../images/angle.png",
+                            },
+                            {
+                                id:8,
+                                icon:"../images/sidebar8.png",
+                                title:" Beauty & Health",
+                                nav:"../images/angle.png",
+                                    },
+                                    {
+                                        id:9,
+                                        icon:"../images/sidebar9.png",
+                                        title:"Foods",
+                                        nav:"../images/angle.png",
+                                            },
+     {   id:10,
+ icon:"../images/sidebar10.png",
+   title:"Fashion",
+ nav:"../images/angle.png",
+                                                    },
+                                                    {
+                                                        id:11,
+                                                        icon:"../images/sidebar11.png",
+                                                        title:"Services",
+                                                        nav:"../images/angle.png",
+                                                            },
+                                                            {
+                                                                id:12,
+                                                                icon:"../images/sidebar12.png",
+                                                                title:"Kids",
+                                                                nav:"../images/angle.png",
+                                                                    }                 
+]
