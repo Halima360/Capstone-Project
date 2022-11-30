@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Capstone-Project/static/css/main.318b588b.css",
-    "main.js": "/Capstone-Project/static/js/main.2ca76039.js",
-    "static/js/787.0f3273df.chunk.js": "/Capstone-Project/static/js/787.0f3273df.chunk.js",
-    "static/media/signup.png": "/Capstone-Project/static/media/signup.939dadb14714e49a00f1.png",
-    "static/media/frame3.png": "/Capstone-Project/static/media/frame3.aa59f4084b5cf75c0742.png",
-    "static/media/frame2.png": "/Capstone-Project/static/media/frame2.961cfbef651f5b985ac8.png",
-    "index.html": "/Capstone-Project/index.html",
-    "main.318b588b.css.map": "/Capstone-Project/static/css/main.318b588b.css.map",
-    "main.2ca76039.js.map": "/Capstone-Project/static/js/main.2ca76039.js.map",
-    "787.0f3273df.chunk.js.map": "/Capstone-Project/static/js/787.0f3273df.chunk.js.map"
+    "main.css": "/static/css/main.318b588b.css",
+    "main.js": "/static/js/main.cf63c59e.js",
+    "static/js/787.0f3273df.chunk.js": "/static/js/787.0f3273df.chunk.js",
+    "static/media/signup.png": "/static/media/signup.939dadb14714e49a00f1.png",
+    "static/media/frame3.png": "/static/media/frame3.aa59f4084b5cf75c0742.png",
+    "static/media/frame2.png": "/static/media/frame2.961cfbef651f5b985ac8.png",
+    "index.html": "/index.html",
+    "main.318b588b.css.map": "/static/css/main.318b588b.css.map",
+    "main.cf63c59e.js.map": "/static/js/main.cf63c59e.js.map",
+    "787.0f3273df.chunk.js.map": "/static/js/787.0f3273df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.318b588b.css",
-    "static/js/main.2ca76039.js"
+    "static/js/main.cf63c59e.js"
   ]
 }
